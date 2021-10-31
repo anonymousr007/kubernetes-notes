@@ -1,2 +1,3 @@
-# kubernetes
-Kubernetes (Production-Grade Container Scheduling and Management) Notes
+# Kubernetes
+
+> Production-Grade Container Scheduling and Management
